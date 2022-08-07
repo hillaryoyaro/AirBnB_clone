@@ -1,4 +1,4 @@
-## DESCRIPTION OF THE PROJECT
+## DESCRIPTION OF THE AirBnB PROJECT
 
 The **AirBnB** clone project's goal is to deploy on your server a simple copy the *AirBnB website*.
 After a 4 month period, you will have a complete web application composed of:
